@@ -12,3 +12,7 @@ Just create a new Mate object in the main.py file and use the add_busy_range met
 
     mate = Mate("mate")
     mate.add_busy_range(TimeRange(start_time="HH:MM", end_time="HH:MM"))
+
+## Screenshot of this project.
+
+![Bill](https://raw.githubusercontent.com/mcostabile/FreeTimeRanges/main/example.png)
